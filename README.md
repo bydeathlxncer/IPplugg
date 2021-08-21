@@ -2,8 +2,6 @@
 
 um simples script para localizar IP
 
-um simples script de localização de IP
-
 pkg install git (apt-get install git)
 
 pkg install python (apt-get install python)
