@@ -161,10 +161,4 @@ try:
         print(f'{vm}- [!?!] digite uma opção valida porra [!?!] {f}');exit()                                                                                          
 except:
     exit()
-       
-       
-       
-
-  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
